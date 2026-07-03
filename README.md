@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 개인 웹사이트 - 이광훈(Lee Kwanghun)
 
 모던하고 심플한 디자인의 개인 포트폴리오/소개 웹사이트입니다.
@@ -130,3 +131,6 @@ const emailParts = ['newemail', 'example.com']; // 새 이메일
 
 **생성일**: 2026-07-03  
 **작성자**: 이광훈(Lee Kwanghun)
+=======
+# INU_LECTURE_LLM
+>>>>>>> ec061cb6f839c6221456b2d8311c03256e91747f
